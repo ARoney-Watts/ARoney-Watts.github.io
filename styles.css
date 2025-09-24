@@ -1,9 +1,10 @@
 body {
     background: slategray;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
     }
     .name h1 {
-    color: red;
+    color: rgb(2, 154, 255);
     text-align: center;
     }
 .about{
